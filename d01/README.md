@@ -140,7 +140,7 @@ Il s'agira alors de savoir comment récupérer les informations à ces endroits,
     ]
     ```
 
-Exercice 08 - Un peu de logique 🤯
+## Exercice 08 - Un peu de logique 🤯
 
 - Créer une route **POST** '/are-these-palindromes'
   - Recoit en paramètre un corps JSON de la forme suivante :
