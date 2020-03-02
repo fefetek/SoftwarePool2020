@@ -30,6 +30,8 @@ tests automatisés.
 
 > Si tout se passe bien `npm start` ou `yarn start` devrait lancer votre application.
 
+N'oubliez pas d'informer l'utilisateur que le serveur est correctement lancé en affichant `Ready.` dans le terminal.
+
 ## Exercice 02 - Coder bien pour soi et pour les autres
 
 Il est important d'avoir une norme commune au sein d'un projet. C'est pour ca qu'il est interressant d'intégrer [ESLint](https://eslint.org/) a votre projet
@@ -118,7 +120,7 @@ Il s'agira alors de savoir comment récupérer les informations à ces endroits,
       - Renvoyer `No Message Defined`
 
 ## Exercice 06 - Tester c'est douter mais c'est bien quand même
-    
+
 - Installer [jest](https://jestjs.io/)
   - Le coverage doit être stocké dans le dossier `coverage`
     - Ajouter la règle 'test' qui exécute `jest`
