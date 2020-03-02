@@ -11,6 +11,14 @@
 - [NodeJS](https://nodejs.org/en/) >= 10 ([installation](https://lmgtfy.com/?q=how+to+install+nodejs))
 - [npm](https://www.npmjs.com/) (généralement installé avec NodeJS)
 
+Nous vous demanderons d'effectuer vos rendus sur GitHub, dans un dépôt
+dédié à la journée. Nommez le `POC_SoftwarePool2020_DAY` où `DAY` correspond
+au nom de la journée, ici `d01`.
+
+Envoyez nous un message sur Discord avec le lien de votre dépôt pour qu'on
+puisse suivre l'avancée de votre travail et, possiblement, faire passer des
+tests automatisés.
+
 ## Exercice 01 - Tout a un début
 
 - Créer une application NodeJS basique
