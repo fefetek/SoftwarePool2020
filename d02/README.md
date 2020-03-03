@@ -12,7 +12,15 @@
 
 Pour commencer, vous allez devoir transformer le fichier `pokemon.data` en `pokemon.json`. Ces fichiers contiennent les inforamtions définissant un pokémon et ses objets. La moulinette va essayer d'accèder à ces données. Votre JSON doit être correctement formatté.
 
-> Les lignes suivantes doivent fonctionner
+Vous devez rendre un programme JavaScript, qui ouvre le fichier Pokemon donné en
+paramètre, qui le transforme en JSON et qui l'écrit dans un second fichier aussi donné
+en paramètres.
+
+> Les lignes suivantes doivent fonctionner.
+
+```bash
+$ node src/pokemon.js files/pokemon.data pokemon.json
+```
 
 ```javascript
 let file = require("pokemon.json");
