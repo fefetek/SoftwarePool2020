@@ -29,6 +29,9 @@ console.log(file.game.berry[3].effect);
 console.log(file.game.potion[2].heal);
 ```
 
+> Vous pouvez considérer que le fichier sera toujours correctement formatté, avec des
+indentations de 4 espaces.
+
 **Rendu :** `src/pokemon.js`.
 
 ## Exercice 02 - Do-Op
